@@ -1,5 +1,14 @@
 [![Build Status](https://github.com/gryfai/mcp-uptime-kuma-open/actions/workflows/build.yml/badge.svg)](https://github.com/gryfai/mcp-uptime-kuma-open/actions/workflows/build.yml)
 
+(Background:
+This repository did previously belong to one of my side projects GryfAI.
+That project has been scrapped and ownership has been transferred to me, personally.
+This is still offered under the same BSL license.
+
+We are going to modify contact information and license will be more open.
+However, I would like recognition and attribution for the work I have put into it.)
+
+
 # mcp-uptime-kuma-open
 
 This is the open version of our Uptime Kuma MCP server.
